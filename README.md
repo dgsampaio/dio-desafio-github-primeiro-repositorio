@@ -1,2 +1,2 @@
-# dio-desafio-github-primeiro-repositorio
+# Repositório de familiarização ao github
 Projeto de inicialização ao github
