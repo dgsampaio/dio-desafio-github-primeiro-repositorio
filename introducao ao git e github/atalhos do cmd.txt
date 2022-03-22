@@ -1,0 +1,23 @@
+	windows	
+-echo - printa hello
+-cd - Navegar entre as pastas
+-dir - lista todos os diretórios na pasta atual
+-mkdir - cria uma pasta no diretório atual
+-del /rmdir - 
+-cd.. - volta uma pasta
+-cls - Limpa o terminal
+-TAB - completa a frase digitada
+-del - deleta arquivos em uma pasta
+-rmdir "nome da pasta" /S /Q
+
+linux
+-cd - Navegar entre as pastas
+-ls - lista todos os diretórios na pasta atual
+-mkdir - cria uma pasta no diretório atual
+-rm -rf - 
+-cd .. - volta uma pasta 
+-clear - Limpa o terminal ou (CTRL + L)
+-echo - printa algo na tela
+-rm -rf "nome da pasta/"- deletar a pasta
+-
+
