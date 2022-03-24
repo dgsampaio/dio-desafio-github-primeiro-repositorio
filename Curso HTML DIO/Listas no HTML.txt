@@ -1,0 +1,4 @@
+
+<ul> = lista não ornada 
+<ol> = listas ordenadas (1,a,A,i,I,)
+<li> = item das listas

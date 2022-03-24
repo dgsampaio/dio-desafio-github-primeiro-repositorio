@@ -1,0 +1,5 @@
+<a>Link</a>
+
+<a href="linkedin.com/in/vilaboim">LinkdIn</a>
+<a href="mailto:lucas@vilaboim.com">E-mal>/a>
+<a target="_blank">Link</a> (fazer o link abrir em uma nova aba.)
