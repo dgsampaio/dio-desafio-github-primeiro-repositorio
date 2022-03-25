@@ -1,0 +1,45 @@
+ID: é representado pelo símbolo # (hash) seguido de um nome para esse ID.
+
+Classe: a classe é representada de forma parecida do ID, mas é precedida por um ponto em vez do hash.
+
+
+bordas (border)
+solid: mostra uma borda simples e reta;
+
+dotted: são bolinhas com um pequeno espaçamento entre elas;
+
+dashed: forma uma linha tracejada.
+
+
+font-famiy= Com o font-family podemos alterar a fonte dos nossos textos
+
+font-size= O font-size nos ajuda a mudar o tamanho do texto,
+font-style= Usamos o font-style para tornar um texto itálico
+
+font-weight= Altera o peso do texto... normal; bold (negrito) etc...
+
+text-transform= altera a forma do texto, uppercase(tudo maiúscula); lowercase(tudo minúscula); capitalize(primeiras letras maiúsculas)
+
+text-decoration= coloca linhas nas palavras underline(sublinhado); overline(elevado); line-through(corte na palavra)
+
+ul{ 
+	list-style-type: square;
+}
+
+ol{
+	list-style-type: upper-roman;
+}
+
+ul{ list-style-type: "\1F44D";
+}
+
+dimensão e alinhamento 
+width e height ajustam a largura e altura tanto como porcentagem como pixels
+
+max-width; max-height largura máxima e altuma máxima 
+
+margin alinhamento 
+
+text alig= alinhamento do texto.... left, right, center,justify
+
+
